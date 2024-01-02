@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:trident"
+  },
+  "addition": {
+    "item": "hydrosteel:ancient_moss"
+  },
+  "result": {
+    "item": "hydrosteel:mossforged_trident"
+  }
+}

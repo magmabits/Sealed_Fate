@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "hydrosteel:hydrosteel_ingot"
+  },
+  "result": {
+    "item": "hydrosteel:hydrosteel_block"
+  }
+}

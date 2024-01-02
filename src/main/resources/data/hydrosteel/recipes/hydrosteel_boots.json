@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_boots"
+  },
+  "addition": {
+    "item": "hydrosteel:hydrosteel_ingot"
+  },
+  "result": {
+    "item": "hydrosteel:hydrosteel_boots"
+  }
+}

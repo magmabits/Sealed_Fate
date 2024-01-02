@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamind_leggings"
+    "item": "minecraft:diamond_leggings"
   },
   "addition": {
     "item": "hydrosteel:hydrosteel_ingot"

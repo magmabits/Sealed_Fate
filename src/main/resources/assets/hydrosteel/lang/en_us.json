@@ -1,7 +1,14 @@
 {
   "item.hydrosteel.hydrosteel_scrap": "Hydrosteel Scrap",
   "item.hydrosteel.hydrosteel_ingot": "Hydrosteel Ingot",
+  "item.hydrosteel.coralblade": "Coralblade",
+  "item.hydrosteel.ancient_coral": "Ancient Coral",
   "block.hydrosteel.hydrosteel_block": "Block of Hydrosteel",
+
+  "item.hydrosteel.hydrosteel_helmet": "Hydrosteel Helmet",
+  "item.hydrosteel.hydrosteel_chestplate": "Hydrosteel Chestplate",
+  "item.hydrosteel.hydrosteel_leggings": "Hydrosteel Leggings",
+  "item.hydrosteel.hydrosteel_boots": "Hydrosteel Boots",
 
   "itemGroup.hydrosteel.hydrosteel": "Hydrosteel"
 }

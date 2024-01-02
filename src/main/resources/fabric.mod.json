@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "hydrosteel",
+  "version": "${version}",
+
+  "name": "Hydrosteel",
+  "description": "Hydrosteel is a mod that adds a new upgrade to Diamond Armor!",
+  "authors": [
+    "magmabits"
+  ],
+  "contact": {
+    "homepage": "https://magmabits.vercel.app/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/hydrosteel/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.magmabits.hydrosteel.Hydrosteel"
+    ],
+    "client": [
+      "net.magmabits.hydrosteel.HydrosteelClient"
+    ]
+  },
+  "mixins": [
+    "hydrosteel.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -9,6 +9,7 @@ import org.slf4j.LoggerFactory;
 
 import static net.magmabits.hydrosteel.item.ModItems.MOSSFORGED_TRIDENT;
 
+
 // Very important comment
 public class Hydrosteel implements ModInitializer {
 	public static final String MOD_ID = "hydrosteel";
@@ -23,5 +24,5 @@ public class Hydrosteel implements ModInitializer {
 
 	public static void registerItemsWithMultiItemLib() {
 		UniqueItemRegistry.TRIDENT.addItemToRegistry(MOSSFORGED_TRIDENT);
-	};
+	}
 }

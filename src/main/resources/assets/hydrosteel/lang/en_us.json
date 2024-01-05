@@ -10,5 +10,7 @@
   "item.hydrosteel.hydrosteel_leggings": "Hydrosteel Leggings",
   "item.hydrosteel.hydrosteel_boots": "Hydrosteel Boots",
 
-  "itemGroup.hydrosteel.hydrosteel": "Hydrosteel"
+  "itemGroup.hydrosteel.hydrosteel": "Hydrosteel",
+
+  "effect.hydrosteel.drowning": "Drowning"
 }

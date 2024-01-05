@@ -10,10 +10,10 @@
   ],
   "contact": {
     "homepage": "https://magmabits.vercel.app/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/magmabits/Hydrosteel"
   },
 
-  "license": "MIT License",
+  "license": "All-Rights-Reserved Licence",
   "icon": "assets/hydrosteel/icon.png",
 
   "environment": "*",

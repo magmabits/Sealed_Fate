@@ -2,6 +2,7 @@ package net.magmabits.hydrosteel.item;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.magmabits.hydrosteel.Hydrosteel;
+import net.magmabits.hydrosteel.custom.CoralbladeItem;
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.*;
 import net.minecraft.util.Identifier;
@@ -27,7 +28,7 @@ public class ModItems {
             new ArmorItem(ModArmorMaterial.HYDROSTEEL, EquipmentSlot.FEET, new FabricItemSettings().fireproof().group(ModItemGroup.HYDROSTEEL).rarity(Rarity.UNCOMMON)));
 
     public static final Item CORALBLADE = registerItem("coralblade",
-            new SwordItem(ToolMaterials.DIAMOND, 4, -2.4f, new FabricItemSettings().fireproof().group(ModItemGroup.HYDROSTEEL).rarity(Rarity.RARE)));
+            new CoralbladeItem(ToolMaterials.DIAMOND, 4, -2.4f, new FabricItemSettings().fireproof().group(ModItemGroup.HYDROSTEEL).rarity(Rarity.RARE)));
 
     public static void registerModItems() {
         Hydrosteel.LOGGER.debug("Registering items for " + Hydrosteel.MOD_ID);

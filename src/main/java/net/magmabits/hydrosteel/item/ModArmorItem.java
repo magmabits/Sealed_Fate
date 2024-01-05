@@ -46,7 +46,6 @@ public class ModArmorItem extends ArmorItem {
             if(hasCorrectArmorOn(mapArmorMaterial, player)) {
                 if(player.isTouchingWater()) {
                     addStatusEffectForMaterial(player, mapArmorMaterial, StatusEffects.CONDUIT_POWER);
-                    addStatusEffectForMaterial(player, mapArmorMaterial, StatusEffects.DOLPHINS_GRACE);
                 } else {
                     addStatusEffectForMaterial(player, mapArmorMaterial, StatusEffects.WEAKNESS);
                 }

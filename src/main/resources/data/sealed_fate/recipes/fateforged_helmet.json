@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "addition": {
+    "item": "sealed_fate:lumina_essence"
+  },
+  "result": {
+    "item": "sealed_fate:fateforged_helmet"
+  }
+}

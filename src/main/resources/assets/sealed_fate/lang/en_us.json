@@ -1,0 +1,15 @@
+{
+  "item.sealed_fate.destined_fate": "Destined Fate",
+  "item.sealed_fate.fateforged_helmet": "Fateforged Helmet",
+  "item.sealed_fate.fateforged_chestplate": "Fateforged Chestplate",
+  "item.sealed_fate.fateforged_leggings": "Fateforged Leggings",
+  "item.sealed_fate.fateforged_boots": "Fateforged Boots",
+  "item.sealed_fate.lumina_essence": "Lumina Essence",
+
+  "block.sealed_fate.lumina_ore": "Lumina Ore",
+  "block.sealed_fate.lumina_block": "Block of Lumina Essence",
+
+  "itemGroup.sealed_fate.sealed_fate": "Sealed Fate",
+
+  "effect.sealed_fate.devotion": "Devotion"
+}

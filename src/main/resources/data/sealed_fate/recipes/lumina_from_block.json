@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sealed_fate:lumina_block"
+    }
+  ],
+  "result": {
+    "item": "sealed_fate:lumina_essence",
+    "count": 9
+  }
+}

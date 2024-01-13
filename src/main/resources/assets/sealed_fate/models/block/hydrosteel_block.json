@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sealed_fate:/block/lumina_block"
+  }
+}

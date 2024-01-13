@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "sealed_fate:/block/lumina_block" }
+  }
+}

@@ -1,32 +1,31 @@
 {
   "schemaVersion": 1,
-  "id": "hydrosteel",
+  "id": "sealed_fate",
   "version": "${version}",
 
-  "name": "Hydrosteel",
-  "description": "Hydrosteel is a mod that adds a new upgrade to Diamond Armor!",
+  "name": "Sealed Fate",
+  "description": "ooooooh custom private mod >:)",
   "authors": [
     "magmabits"
   ],
   "contact": {
-    "homepage": "https://magmabits.vercel.app/",
-    "sources": "https://github.com/magmabits/Hydrosteel"
+    "homepage": "https://magmabits.vercel.app/"
   },
 
   "license": "All-Rights-Reserved Licence",
-  "icon": "assets/hydrosteel/icon.png",
+  "icon": "assets/sealed_fate/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.magmabits.hydrosteel.Hydrosteel"
+      "net.magmabits.sealed_fate.SealedFate"
     ],
     "client": [
-      "net.magmabits.hydrosteel.HydrosteelClient"
+      "net.magmabits.sealed_fate.SealedFateClient"
     ]
   },
   "mixins": [
-    "hydrosteel.mixins.json"
+    "sealed_fate.mixins.json"
   ],
 
   "depends": {

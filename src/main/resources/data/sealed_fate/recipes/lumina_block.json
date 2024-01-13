@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "sealed_fate:lumina_essence"
+  },
+  "result": {
+    "item": "sealed_fate:lumina_block"
+  }
+}
